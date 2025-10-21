@@ -2,7 +2,7 @@
 Website ini merupakan portfolio pribadi yang dirancang untuk memperkenalkan Elsa Claudia, seorang mahasiswa Teknik Informatika yang memiliki minat dalam bidang desain, teknologi, dan pengembangan web.
 Website “Elsa Claudia” merupakan sebuah portofolio pribadi berbasis web yang dirancang untuk memperkenalkan identitas, keahlian, dan hasil karya dari Elsa Claudia, seorang mahasiswa Teknik Informatika yang memiliki ketertarikan tinggi terhadap dunia desain antarmuka (UI/UX), pengembangan web, dan teknologi kreatif.
 
-Website ini dibangun menggunakan HTML, CSS, dan Bootstrap 5, dengan tambahan elemen interaktif berbasis JavaScript, untuk menciptakan tampilan yang modern, responsif, dan estetis. Desain situs ini mengusung konsep minimalis elegan, dengan warna lembut, tata letak seimbang, serta tipografi yang mudah dibaca agar pengunjung merasa nyaman ketika menjelajahi setiap halamannya. Web ini terdiri dari beberapa bagian yaitu
+Website ini dibangun menggunakan HTML, CSS, dan Bootstrap, dengan tambahan elemen interaktif berbasis JavaScript, untuk menciptakan tampilan yang modern, responsif, dan estetis. Desain situs ini mengusung konsep minimalis elegan, dengan warna lembut, tata letak seimbang, serta tipografi yang mudah dibaca agar pengunjung merasa nyaman ketika menjelajahi setiap halamannya. Web ini terdiri dari beberapa bagian yaitu
 Halaman Home
 
 1. Halaman utama menampilkan sapaan personal “Hello, I’m Elsa Claudia” sebagai bentuk perkenalan singkat terhadap pemilik website.
@@ -20,7 +20,7 @@ Halaman Home
     Tersedia form kontak yang memudahkan pengunjung untuk mengirim pesan, pertanyaan, atau peluang kerja sama secara langsung.
     Tampilan halaman dibuat bersih dan interaktif dengan tombol dan kolom input yang mudah digunakan.
    
-Berikut penjelasan lebih detail
+link yt, https://youtu.be/IY7Akfk2akU
 
 Tampilan Website
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0008e179-0026-4192-9e1a-c62c610c2ebb" />
