@@ -23,7 +23,6 @@ Halaman Home
 Berikut penjelasan lebih detail
 
 Tampilan Website
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f2218163-8b02-4552-9321-20abc89e2cd9" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0008e179-0026-4192-9e1a-c62c610c2ebb" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/02c9ffac-e87e-47f7-997a-c7cd0f6a546c" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fc4b1be7-a18d-44f9-8a97-619b8d9caf0d" />
@@ -32,3 +31,4 @@ Tampilan Website
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5f84f8f5-feb4-4838-9353-5b81c126e145" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/949b77e7-a6dd-45eb-a22f-3870c0e25f22" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a6bfce1f-b9d9-44b1-844c-07384b974d25" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f2218163-8b02-4552-9321-20abc89e2cd9" />
